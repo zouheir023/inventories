@@ -1,0 +1,9 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url("https://dotcomdist.com/wp-content/uploads/2018/07/AdobeStock_187312509.jpeg");
+  background-size: cover;
+  background-position: center center;
+}
